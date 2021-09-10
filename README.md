@@ -16,3 +16,17 @@ Apart for this requirements, the owner is open to any type of game, topic or gen
 ## Proposed Solution
 
 ## Success Criteria
+
+
+# Criteria B: Design
+
+## System Diagram
+
+## Flow Diagrams
+
+## Record of Tasks
+| Task No | Planned Action | Planned Outcome | Time estimate | Target completion date | Criterion |
+|---------|----------------|-----------------|---------------|------------------------|-----------|
+|         |                |                 |               |                        |           |
+|         |                |                 |               |                        |           |
+|         |                |                 |               |                        |           |
