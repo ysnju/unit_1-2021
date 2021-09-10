@@ -1,6 +1,8 @@
 # Unit 1: A classic game 
 ![](game.gif)
 
+# Criteria A: Planning
+
 ## Problem definition
 
 The owner of the local game shop is an enthusiast of classic computer games. He has been looking for a talented programmer that can help him revive his passion for text-based games. He has few requirements for this task:
@@ -10,3 +12,7 @@ The owner of the local game shop is an enthusiast of classic computer games. He 
 3. The game must record the player name and score.
 
 Apart for this requirements, the owner is open to any type of game, topic or genre.
+
+## Proposed Solution
+
+## Success Criteria
