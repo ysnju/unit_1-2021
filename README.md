@@ -13,6 +13,7 @@ The owner of the local game shop is an enthusiast of classic computer games. He 
 
 I will design and make a Text-based game for a client who is an owner of a local game shop. The Text-based game will be made in the ———— and is constructed using the software Python. It will take  ———- to make and will be evaluated according to the criteria ———.
 
+The game is a RPG of a cat in ISAK. It will introduce ISAK foods.
 
 Apart for this requirements, the owner is open to any type of game, topic or genre.
 
