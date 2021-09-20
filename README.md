@@ -12,7 +12,7 @@ The owner of the local game shop is an enthusiast of classic computer games. He 
 3. The game must record the player name and score.
 
 ## Proposed Solution
-I will design and make a Text-based game for a client who is an owner of a local game shop. The Text-based game will be made in the ———— and is constructed using the software Python. It will take  ———- to make and will be evaluated according to the criteria ———.
+I will design and make a Text-based game for a client who is an owner of a local game shop. The Text-based game will be made in the ———— and is constructed using the software Python. I wil use python3 because it is the only programming language I know, and it is the most used programming language, meaning that I would be able to get more help.It will take  ———- to make and will be evaluated according to the criteria ———.
 
 The game is a RPG of a cat in ISAK. It will introduce ISAK foods　as the story goes on.
 
