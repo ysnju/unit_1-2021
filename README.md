@@ -11,16 +11,21 @@ The owner of the local game shop is an enthusiast of classic computer games. He 
 2. The game must record the time played.
 3. The game must record the player name and score.
 
+## Proposed Solution
 I will design and make a Text-based game for a client who is an owner of a local game shop. The Text-based game will be made in the ———— and is constructed using the software Python. It will take  ———- to make and will be evaluated according to the criteria ———.
 
-The game is a RPG of a cat in ISAK. It will introduce ISAK foods.
+The game is a RPG of a cat in ISAK. It will introduce ISAK foods　as the story goes on.
 
 Apart for this requirements, the owner is open to any type of game, topic or genre.
 
-## Proposed Solution
-
 ## Success Criteria
-
+1. The game is entirely text-based.
+2. The game must record the time played.
+3. The game must record the player name and score
+-Original-
+4. The game will allow the player to input a number to increase the difficulty.
+5. The game will allow the player to end up with three different results.
+6. The game will allow the player to save and resume while the game at every end of the chapter.
 
 # Criteria B: Design
 
