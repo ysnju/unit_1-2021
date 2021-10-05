@@ -36,6 +36,6 @@ Apart for this requirements, the owner is open to any type of game, topic or gen
 ## Record of Tasks
 | Task No | Planned Action | Planned Outcome | Time estimate | Target completion date | Criterion |
 |---------|----------------|-----------------|---------------|------------------------|-----------|
-|         |                |                 |               |                        |           |
+|   1     |Introduction    |   game rules    |         2h.   |          10/10         |           |
 |         |                |                 |               |                        |           |
 |         |                |                 |               |                        |           |
