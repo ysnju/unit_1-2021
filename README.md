@@ -35,8 +35,11 @@ Apart for this requirements, the owner is open to any type of game, topic or gen
 
 ## Record of Tasks
 | Task No | Planned Action                  | Planned Outcome                                        | Time estimate | Target completion date | Criterion |
-|---------|---------------------------------|--------------------------------------------------------|---------------|------------------------|-----------|
-| 1       | Create introduction to the game | Introduces game rules                                  | 6h            | 10/10                  | B         |
-| 2       | Create timer                    | Shows the time the game has been played by the player  | 3h            | 10/11                  | C         |
-| 3       | Create scores                   | Shows the score of the player                          | 3h            | 10/11                  | C         |
-| 4       | Create difficulty               | A number inputted by the player will be the difficulty | 4h            | 10/12                  | C         |
+| Task No | Planned Action                  | Planned Outcome                                        | Time estimate | Target completion date | Criterion |
+| Task No | Planned Action                                          | Planned Outcome                                                                                        | Time estimate | Target completion date | Criterion |
+|---------|---------------------------------------------------------|--------------------------------------------------------------------------------------------------------|---------------|------------------------|-----------|
+| 1       | Create introduction to the game                         | Introduces game rules                                                                                  | 6h            | 10/10                  | B         |
+| 2       | Create timer                                            | Shows the time the game has been played by the player                                                  | 3h            | 10/11                  | C         |
+| 3       | Create scores                                           | Shows the score of the player                                                                          | 3h            | 10/11                  | C         |
+| 4       | Create difficulty                                       | A number inputted by the player will be the difficulty                                                 | 4h            | 10/12                  | C         |
+| 5       | Unit Test: function for encoding witht he Caesar cypher | To check that the function works as expected with input "anju" and key=17, the outcome should be "real | 5min          | 10/7                   | E         |
