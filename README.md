@@ -34,8 +34,8 @@ Apart for this requirements, the owner is open to any type of game, topic or gen
 ## Flow Diagrams
 
 ## Record of Tasks
-| Task No | Planned Action | Planned Outcome | Time estimate | Target completion date | Criterion |
-|---------|----------------|-----------------|---------------|------------------------|-----------|
-|   1     |Introduction    |   game rules    |         2h.   |          10/10         |           |
-|         |                |                 |               |                        |           |
-|         |                |                 |               |                        |           |
+| Task No | Planned Action                  | Planned Outcome                                       | Time estimate | Target completion date | Criterion |
+|---------|---------------------------------|-------------------------------------------------------|---------------|------------------------|-----------|
+| 1       | Create introduction to the game | Introduces game rules                                 | 6h            | 10/10                  |           |
+| 2       | Create timer                    | Shows the time the game has been played by the player | 3h            | 10/11                  |           |
+| 3       | Create scores                   | Shows the score of the player                         | 3h            | 10/11                  |           |
