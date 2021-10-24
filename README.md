@@ -36,6 +36,7 @@ Version where the game runs with 3 files.(However, errors occur)
 ![System Diagram 1 1](https://user-images.githubusercontent.com/89366347/138598061-4dd3ca2e-30c6-4f45-90a2-c4b3514aa741.jpg)
 
 ## Flow Diagrams
+![Flowchart1 name_confirm](https://user-images.githubusercontent.com/89366347/138598549-6d25309b-0715-4174-a48a-7bfaf4977027.jpg)
 
 ## Record of Tasks
 | Task No | Planned Action                  | Planned Outcome                                        | Time estimate | Target completion date | Criterion |
