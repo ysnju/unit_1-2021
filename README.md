@@ -30,6 +30,10 @@ Apart for this requirements, the owner is open to any type of game, topic or gen
 # Criteria B: Design
 
 ## System Diagram
+Version where the game was run by single file
+![System Diagram 1 0](https://user-images.githubusercontent.com/89366347/138597632-bb995f3d-c302-49e9-87a3-b778bbd7fd30.jpg)
+Version where the game runs with 3 files.(However, errors occur)
+![System Diagram 1 1](https://user-images.githubusercontent.com/89366347/138598061-4dd3ca2e-30c6-4f45-90a2-c4b3514aa741.jpg)
 
 ## Flow Diagrams
 
