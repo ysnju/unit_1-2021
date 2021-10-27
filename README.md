@@ -81,12 +81,16 @@ Version where the game runs with 3 files.(However, errors occur)
 ![Flowchart1 name_confirm](https://user-images.githubusercontent.com/89366347/138598549-6d25309b-0715-4174-a48a-7bfaf4977027.jpg)
 
 ## Record of Tasks
-| Task No | Planned Action                  | Planned Outcome                                        | Time estimate | Target completion date | Criterion |
-| Task No | Planned Action                  | Planned Outcome                                        | Time estimate | Target completion date | Criterion |
 | Task No | Planned Action                                          | Planned Outcome                                                                                        | Time estimate | Target completion date | Criterion |
 |---------|---------------------------------------------------------|--------------------------------------------------------------------------------------------------------|---------------|------------------------|-----------|
-| 1       | Create introduction to the game                         | Introduces game rules                                                                                  | 6h            | 10/10                  | B         |
-| 2       | Create timer                                            | Shows the time the game has been played by the player                                                  | 3h            | 10/11                  | C         |
+| 1       | Create introduction to the game                         | Introduces game rules                                                                                  | 1h            | 10/10                  | B         |
+| 2       | Create timer                                            | Shows the time the game has been played by the player                                                  | 1h            | 10/11                  | C         |
 | 3       | Create scores                                           | Shows the score of the player                                                                          | 3h            | 10/11                  | C         |
-| 4       | Create difficulty                                       | A number inputted by the player will be the difficulty                                                 | 4h            | 10/12                  | C         |
+| 4       | Create difficulty                                       | A number inputted by the player will be the difficulty                                                 | 5 min         | 10/21                  | C         |
 | 5       | Unit Test: function for encoding witht he Caesar cypher | To check that the function works as expected with input "anju" and key=17, the outcome should be "real | 5min          | 10/7                   | E         |
+| 6       | Create story line                                       | N/A                                                                                                    | 1h            | 10/13                  |           |
+| 7       | Divide the story line to while loops                    | Shows wrong inputs/ forces the user to the right answer                                                | 1h            | 10/15                  |           |
+| 8       | Divide the story line with if                           | Makes the chapters                                                                                     | 30h           | 10/16                  |           |
+| 9       | Create ending                                           | prints the name score and total time the user was on the game                                          | 30min         |                        |           |
+|         |                                                         |                                                                                                        |               |                        |           |
+|         |                                                         |                                                                                                        |               |                        |           |
